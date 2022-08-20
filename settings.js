@@ -11,7 +11,7 @@ const collectionInfo = {
     title: "{name}", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
     date: "08.25.2022",
     socialMedia: {
-        twitter: "https://twitter.com/",
+        twitter: "https://twitter.com/MeowMonstersNFT",
     },
     medias: {
         preview: "preview.gif",
