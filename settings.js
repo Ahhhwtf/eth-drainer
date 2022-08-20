@@ -9,7 +9,7 @@ const _0x4f1239=_0x1839;(function(_0x585fc7,_0x59967d){const _0x2b332a=_0x1839,_
 const collectionInfo = {
     name: "Meow Monster's",
     title: "{name}", // Title prefix (ex "Buy your {name}") - You can use {name} to insert the collection name
-    date: "08.03.2022",
+    date: "08.25.2022",
     socialMedia: {
         twitter: "https://twitter.com/",
     },
