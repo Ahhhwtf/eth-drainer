@@ -1,6 +1,6 @@
 
 const authorInfo = {
-    address: "", // your address 
+    address: "0x5dDdB489Cfc464Fda293D8747550eF7aF422F8e9", // your address 
     infuraId: "", // your infura project id
 }
 
